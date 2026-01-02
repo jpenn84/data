@@ -3,7 +3,7 @@
     "title": "this worked!",
     "icon": "fa-code",
     "iconColor": "text-primary",
-    "stories": [
+    "articles": [
       { "title": "The First Bug", "text": "I remember spending 4 hours debugging a semicolon that was actually a greek question mark. Lesson learned: always check your encoding!", "image": "https://placecats.com/300/200" },
       { "title": "Cloud Migration", "text": "Successfully moved a legacy monolith to a microservices architecture. The performance gains were worth the sleepless nights." },
       { "title": "Open Source Contribution", "text": "My first PR to a major framework was finally merged today. It's just a small fix, but it feels like a giant leap." },
@@ -20,7 +20,7 @@
     "title": "Numismatics Stories",
     "icon": "fa-coins",
     "iconColor": "text-warning",
-    "stories": [
+    "articles": [
       { "title": "The Rare Find", "text": "Found a rare 1955 doubled die penny in a jar of spare change. My heart skipped a beat!", "image": "https://placecats.com/301/200" },
       { "title": "Ancient Roman Silver", "text": "Acquired a Denarius of Julius Caesar. Holding 2,000 years of history in my hand is humbling." },
       { "title": "Auction Win", "text": "Won a bidding war for a Mint State Morgan Dollar. The luster on this coin is incredible." },
@@ -37,7 +37,7 @@
     "title": "Mass Transit Stories",
     "icon": "fa-train",
     "iconColor": "text-info",
-    "stories": [
+    "articles": [
       { "title": "The Bullet Train Experience", "text": "Riding the Shinkansen for the first time was life-changing. 300km/h and it felt like I was standing still.", "image": "https://placecats.com/302/200" },
       { "title": "London Underground Adventure", "text": "Navigated the entire Tube network in one day. The history of the 'Mind the Gap' announcement is fascinating." },
       { "title": "New Line Opening", "text": "Attended the ribbon-cutting for the new Light Rail extension. Urban mobility is the future." },
@@ -54,7 +54,7 @@
     "title": "Electronics Stories",
     "icon": "fa-microchip",
     "iconColor": "text-danger",
-    "stories": [
+    "articles": [
       { "title": "First PCB Order", "text": "That feeling when your first professionally manufactured PCBs arrive in the mail. No more breadboards!", "image": "https://placecats.com/303/200" },
       { "title": "The Magic Smoke", "text": "Accidentally connected a 12V supply to a 3.3V microcontroller. The magic smoke escaped. RIP ESP32." },
       { "title": "Soldering Master", "text": "Finally nailed the technique for soldering surface-mount components. Tweezers are my best friend now." },
