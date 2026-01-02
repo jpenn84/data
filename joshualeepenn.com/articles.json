@@ -54,7 +54,7 @@
     "title": "Electronics",
     "icon": "fa-microchip",
     "iconColor": "text-danger",
-    "article
+    "articles": [
       { "title": "Placeholder", "text": "That feeling when your first professionally manufactured PCBs arrive in the mail. No more breadboards!", "image": "https://placecats.com/303/200" },
       { "title": "The Magic Smoke", "text": "Accidentally connected a 12V supply to a 3.3V microcontroller. The magic smoke escaped. RIP ESP32." },
       { "title": "Soldering Master", "text": "Finally nailed the technique for soldering surface-mount components. Tweezers are my best friend now." },
