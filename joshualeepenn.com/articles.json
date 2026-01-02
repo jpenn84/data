@@ -1,6 +1,6 @@
 [
   {
-    "title": "this worked!",
+    "title": "Software Engineering",
     "icon": "fa-code",
     "iconColor": "text-primary",
     "articles": [
@@ -17,7 +17,7 @@
     ]
   },
   {
-    "title": "Numismatics Stories",
+    "title": "Numismatics",
     "icon": "fa-coins",
     "iconColor": "text-warning",
     "articles": [
@@ -34,7 +34,7 @@
     ]
   },
   {
-    "title": "Mass Transit Stories",
+    "title": "Mass Transit",
     "icon": "fa-train",
     "iconColor": "text-info",
     "articles": [
@@ -51,11 +51,11 @@
     ]
   },
   {
-    "title": "Electronics Stories",
+    "title": "Electronics",
     "icon": "fa-microchip",
     "iconColor": "text-danger",
-    "articles": [
-      { "title": "First PCB Order", "text": "That feeling when your first professionally manufactured PCBs arrive in the mail. No more breadboards!", "image": "https://placecats.com/303/200" },
+    "article
+      { "title": "Placeholder", "text": "That feeling when your first professionally manufactured PCBs arrive in the mail. No more breadboards!", "image": "https://placecats.com/303/200" },
       { "title": "The Magic Smoke", "text": "Accidentally connected a 12V supply to a 3.3V microcontroller. The magic smoke escaped. RIP ESP32." },
       { "title": "Soldering Master", "text": "Finally nailed the technique for soldering surface-mount components. Tweezers are my best friend now." },
       { "title": "Oscilloscope Victory", "text": "Found a noise issue in my audio circuit using my new oscilloscope. Visualization is key to understanding." },
