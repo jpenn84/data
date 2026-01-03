@@ -19,7 +19,8 @@
         },
         {
             "type": "quote",
-            "text": "This should be in big text"
+            "text": "You miss 100% of the shots you don't take. - Wayne Gretzky",
+            "attribution": "Michael Scott"
         }
     ]
 }
