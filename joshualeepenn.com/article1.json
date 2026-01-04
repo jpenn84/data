@@ -23,7 +23,7 @@
             "altText": "Cat 408 request timeout"
         },
         {
-            "type": "quote",
+            "type": "blockquote",
             "text": "You miss 100% of the shots you don't take. - Wayne Gretzky",
             "attribution": "Michael Scott"
         },
@@ -33,9 +33,8 @@
             "class": "display-1"
         },
         {
-            "type": "quote",
-            "text": "You miss 100% of the shots you don't take. - Wayne Gretzky",
-            "attribution": "Michael Scott"
+            "type": "blockquote",
+            "text": "You miss 999% of the shots you don't take. - Wayne Gretzky",
         }
     ]
 }
