@@ -5,10 +5,8 @@
     "iconColor": "text-primary",
     "articles": [
       {
-        "title": "The First Bug",
-        "text": "I remember spending 4 hours debugging a semicolon that was actually a greek question mark. Lesson learned: always check your encoding!",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/500_bill_front.jpg",
-        "source": "https://jpenn84.github.io/data/joshualeepenn.com/article1.json"
+        "title": "Coming soon...",
+        "text": "I'll be writing my experience with vibe-coding this vsry site."
       }
     ]
   },
@@ -18,10 +16,15 @@
     "iconColor": "text-warning",
     "articles": [
       {
-        "title": "The First Bug",
-        "text": "I remember spending 4 hours debugging a semicolon that was actually a greek question mark. Lesson learned: always check your encoding!",
-        "image": "https://placecats.com/300/200",
+        "title": "Coming soon...",
+        "text": "I make the argument for the return of the $500 bill",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/500_bill_front.jpg",
         "source": "https://jpenn84.github.io/data/joshualeepenn.com/article1.json"
+      },
+      {
+        "title": "Coming soon...",
+        "text": "I make the argument for the return of the $1000 bill",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/1000_USD_note%3B_series_of_1934%3B_obverse.jpg"
       }
     ]
   },
@@ -31,10 +34,8 @@
     "iconColor": "text-info",
     "articles": [
       {
-        "title": "The First Bug",
-        "text": "I remember spending 4 hours debugging a semicolon that was actually a greek question mark. Lesson learned: always check your encoding!",
-        "image": "https://placecats.com/300/200",
-        "source": "https://jpenn84.github.io/data/joshualeepenn.com/article1.json"
+        "title": "Arriving soon...",
+        "text": "An introduction to my thoughts on the T"
       }
     ]
   },
@@ -44,10 +45,8 @@
     "iconColor": "text-danger",
     "articles": [
       {
-        "title": "The First Bug",
-        "text": "I remember spending 4 hours debugging a semicolon that was actually a greek question mark. Lesson learned: always check your encoding!",
-        "image": "https://placecats.com/300/200",
-        "source": "https://jpenn84.github.io/data/joshualeepenn.com/article1.json"
+        "title": "Coming soon...",
+        "text": "Half-Finished project of the year: remote control for PiHole"
       }
     ]
   }
