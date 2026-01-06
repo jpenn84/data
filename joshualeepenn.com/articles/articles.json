@@ -5,8 +5,10 @@
     "iconColor": "text-primary",
     "articles": [
       {
-        "title": "Coming soon...",
-        "text": "I'll be writing my experience with vibe-coding this vsry site."
+        "title": "I Vibe-Coded My Home Page",
+        "text": "I let an AI write about my experience letting an AI create my web page.",
+        "image": "https://jpenn84.github.io/data/joshualeepenn.com/articles/software_engineering/images/vibe-code.png",
+        "source": "https://jpenn84.github.io/data/joshualeepenn.com/articles/software_engineering/vibe-coded-home-page.json"
       }
     ]
   },
@@ -16,15 +18,10 @@
     "iconColor": "text-warning",
     "articles": [
       {
-        "title": "Coming soon...",
-        "text": "I make the argument for the return of the $500 bill",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/500_bill_front.jpg",
-        "source": "https://jpenn84.github.io/data/joshualeepenn.com/article1.json"
-      },
-      {
-        "title": "Coming soon...",
-        "text": "I make the argument for the return of the $1000 bill",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8a/1000_USD_note%3B_series_of_1934%3B_obverse.jpg"
+        "title": "Modern US Paper Money",
+        "text": "A premature post-mortem of US paper money",
+        "image": "https://jpenn84.github.io/data/joshualeepenn.com/articles/numismatics/images/us-notes.png",
+        "source": "https://jpenn84.github.io/data/joshualeepenn.com/articles/numismatics/modern-us-paper-money.json"
       }
     ]
   },
