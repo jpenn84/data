@@ -1,6 +1,6 @@
 {
     "title": "I Vibe-Coded My Home Page",
-    "heroImage": "https://jpenn84.github.io/data/joshualeepenn.com/articles/software_engineering/images/vibe-code.png",
+    "heroImage": "https://jpenn84.github.io/data/joshualeepenn.com/articles/software_engineering/images/vibe-code.jpg",
     "date": "2026-01-06",
     "content": [
         {
@@ -62,7 +62,7 @@
         },
         {
             "type": "paragraph",
-            "text": ""
+            "text": "My experience highlighted essential rules for working with AI coding agents: first, use sequential iteration, as attempting to implement too many changes simultaneously only confused the AI, leading to unexpected results; second, always verify changes, as sometimes a requested change would result in no visible difference on the page. I struggled initially with the power of precise language, trying to ask how to use variables for my interest section titles to enable string reuse, with common search terms yielding information on local .env files. The breakthrough came when I asked: &quot;I want to use variables for the interest title values so I can reuse those strings in other places.&quot; With the proper context, the AI immediately provided the correct solution."
         },
         {
             "type": "bs",
@@ -85,34 +85,6 @@
         {
             "type": "paragraph",
             "text": "With the website UI complete, two final steps remain: establishing a long-term content delivery method and actually generating the content itself. Given that AI was used for the web page creation, it is fitting to use AI again to transform project notes into a comprehensive article. This will serve as the site's first piece of content, providing a satisfying bookend to the development process."
-        },
-
-
-
-
-
-
-        {
-            "type": "blockquote",
-            "text": "You miss 100% of the shots you don't take. - Wayne Gretzky",
-            "attribution": "Michael Scott"
-        },
-        {
-            "type": "bs",
-            "text": "This is a display-1 heading",
-            "class": "display-1"
-        },
-        {
-            "type": "blockquote",
-            "text": "You miss 999% of the shots you don't take. - Wayne Gretzky"
-        },
-        {
-            "type": "paragraph",
-            "text": ""
-        },
-        {
-            "type": "paragraph",
-            "text": ""
         }
     ]
 }
