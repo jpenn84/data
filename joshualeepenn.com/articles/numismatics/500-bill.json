@@ -1,5 +1,5 @@
 {
-    "title": "The case for the return of the $500 bill",
+    "title": "The case for reviving the $500 bill",
     "heroImage": "https://jpenn84.github.io/data/joshualeepenn.com/articles/numismatics/images/hero-500-bill.png",
     "date": "2026-01-08",
     "content": [
@@ -51,12 +51,18 @@
             "text": "One could argue that since larger transactions are now mostly handled digitally or by check, that the US would not benefit from enough from a larger denomination to justify the costs associated with printing and accommodating a new, larger denomination and that the old denomination still serves fine. However, the average $100 bill user is not the average person. Two-Thirds of the $100 bills are held outside of the United States."
         },
         {
+            "type": "image",
+            "url": "https://jpenn84.github.io/data/joshualeepenn.com/articles/numismatics/images/currency-abroad.png",
+            "caption": "Share of US currency held abroad",
+            "altText": "Share of US currency held abroad"
+        },
+        {
             "type": "paragraph",
             "text": "Due to its stability and status in international trade, the US dollar is held by foreign entities. These international transactions are often in millions or billions of US dollars, so it brings logistical problems like how to transport or securely store the money. One million dollars in $100 bills weighs 22 pounds. $5 million becomes an OSHA safety hazard at 110 pounds. Using $500 bills for the same amount of money would reduce the weight and volume by 80%. To put that reduction into perspective, it's about the same as the reduction in energy used when switching from an incandescent light to an LED light."
         },
         {
             "type": "blockquote",
-            "text": "Sorry, I don't want to break a $500"
+            "text": "&quot;Sorry, I don't want to break a $500&quot;"
         },
         {
             "type": "paragraph",
@@ -68,16 +74,12 @@
             "class": "h2"
         },
         {
-            "type": "blockquote",
-            "text": "Sorry, I don't want to break a $500"
-        },
-        {
             "type": "paragraph",
             "text": "Other countries with stable currencies have also reduced their large denominations, and for similar reasons as the United States did in 1969. However, the denominations, when converted to US dollars, can vary from about $70 to $7,000. While the British Pound's largest denomination is £50, which is equivalent to about $67 in US Dollars, the Singapore Dollar has a S$10,000 note that's equivalent to $7,800 in US Dollars. The Euro, the Swiss Franc, the Brunei Dollar, and the Singapore Dollar all have denominations in circulation which convert to over $100 USD. And while different countries can have different rules, it seems that these countries do not think crime or tax evasion is enough of a problem to justify recalling their large denomination notes. Adding a $500 denomination will bring us more in line with world leading currencies."
         },
         {
             "type": "image",
-            "url": "https://jpenn84.github.io/data/joshualeepenn.com/articles/numismatics/images/currency-abroad.png",
+            "url": "https://jpenn84.github.io/data/joshualeepenn.com/articles/numismatics/images/large-demons.png",
             "caption": "",
             "altText": ""
         },
