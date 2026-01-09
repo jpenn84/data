@@ -1,40 +1,94 @@
 {
     "title": "The case for the return of the $500 bill",
     "heroImage": "https://jpenn84.github.io/data/joshualeepenn.com/articles/numismatics/images/hero-500-bill.png",
-    "date": "2026-01-04",
+    "date": "2026-01-08",
     "content": [
         {
-            "type": "paragraph",
-            "text": "111Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos."
-        },
-        {
             "type": "bs",
-            "text": "This is a h2 heading",
+            "text": "Introduction",
             "class": "h2"
         },
         {
             "type": "paragraph",
-            "text": "222Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos."
+            "text": "We all know the ubiquitous $100 dollar bill. It's the largest denomination of United States Federal Reserve Note (the full government name of a Dollar Bill) available at banks. Whether you're receiving one in a birthday card, using one to light a cigar, or want to appear richer than you really are, the Hundred Dollar Bill is known for its status of wealth. But the iconic piece of legal tender has not always been the biggest bill."
         },
         {
             "type": "image",
-            "url": "https://http.cat/images/408.jpg",
-            "caption": "408 request timeout",
-            "altText": "Cat 408 request timeout"
-        },
-        {
-            "type": "blockquote",
-            "text": "You miss 100% of the shots you don't take. - Wayne Gretzky",
-            "attribution": "Michael Scott"
+            "url": "https://jpenn84.github.io/data/joshualeepenn.com/articles/numismatics/images/500-front.jpg",
+            "caption": "A $500 bill",
+            "altText": "A $500 bill"
         },
         {
             "type": "bs",
-            "text": "This is a display-1 heading",
-            "class": "display-1"
+            "text": "The rise and fall of big bills",
+            "class": "h2"
+        },
+        {
+            "type": "paragraph",
+            "text": "In the past, the United States has printed $500, $1,000, $5,000, and $10,000 notes. The need for these larger denominations came about as our nation grew and faced challenges. We needed to be able to transfer larger amounts of money, and the most-used way to transfer it was with physical cash. Larger-denomination notes were easier to transfer and quicker to count than smaller denominations. The $500, $1,000, and $5,000 bills were first used in 1861 as a way to finance the Civil War. The $10,000 bill was introduced in 1878 and with the purpose of transferring money between banks."
+        },
+        {
+            "type": "paragraph",
+            "text": "Over time, advances in technology have replaced cash. The advent and adoption of the telegraph paved the way for the first wire transfers. Newfound prosperity after World War II resulted in the widespread use in checks, with customers opting to keep their money secure in banks. Due to declining use and fears of crime and tax evasion, in 1969, The US Treasury and Federal Reserve discontinued and began withdrawing bills larger than $100."
+        },
+        {
+            "type": "bs",
+            "text": "A case for reversing course",
+            "class": "h2"
+        },
+        {
+            "type": "paragraph",
+            "text": "Average rent for the year 1969 was $135/month. A combination of a $100-, a $20-, a $10-, and a $5 bill could have been transferred from a tenant to a landlord. In 2025, the average rent was a bit over $1,700, which is 17 $100 bills. Accounting for inflation, it takes $880.77 to equal the same buying power that a $100 bill had in 1969. We passed the $500 mark in March 2003."
+        },
+        {
+            "type": "image",
+            "url": "https://jpenn84.github.io/data/joshualeepenn.com/articles/numismatics/images/69-25inflation.png",
+            "caption": "",
+            "altText": ""
+        },
+        {
+            "type": "paragraph",
+            "text": "One could argue that since larger transactions are now mostly handled digitally or by check, that the US would not benefit from enough from a larger denomination to justify the costs associated with printing and accommodating a new, larger denomination and that the old denomination still serves fine. However, the average $100 bill user is not the average person. Two-Thirds of the $100 bills are held outside of the United States."
+        },
+        {
+            "type": "paragraph",
+            "text": "Due to its stability and status in international trade, the US dollar is held by foreign entities. These international transactions are often in millions or billions of US dollars, so it brings logistical problems like how to transport or securely store the money. One million dollars in $100 bills weighs 22 pounds. $5 million becomes an OSHA safety hazard at 110 pounds. Using $500 bills for the same amount of money would reduce the weight and volume by 80%. To put that reduction into perspective, it's about the same as the reduction in energy used when switching from an incandescent light to an LED light."
         },
         {
             "type": "blockquote",
-            "text": "You miss 999% of the shots you don't take. - Wayne Gretzky"
+            "text": "Sorry, I don't want to break a $500"
+        },
+        {
+            "type": "paragraph",
+            "text": "But for the remaining one-third of $100 bill holders in the US, A $500 bill would still be a welcome addition. While it likely wouldn't eclipse the ubiquitous $100 bill, a $500 bill raises the bar for gifts and showing off, while also offering a more practical way to pay rent or a car payment, two of our largest expenses and which could reasonably be paid with at least one $500 bill. For some consumers, this could also be their groceries or a utility bill. It could be a relative paying for a young adult's college meal plan or a down payment on a modest used car. It could be the lame excuse you use to be too cheap to pay for your friend's burger (“Sorry, I don't want to break a $500”)."
+        },
+        {
+            "type": "bs",
+            "text": "Equal footing",
+            "class": "h2"
+        },
+        {
+            "type": "blockquote",
+            "text": "Sorry, I don't want to break a $500"
+        },
+        {
+            "type": "paragraph",
+            "text": "Other countries with stable currencies have also reduced their large denominations, and for similar reasons as the United States did in 1969. However, the denominations, when converted to US dollars, can vary from about $70 to $7,000. While the British Pound's largest denomination is £50, which is equivalent to about $67 in US Dollars, the Singapore Dollar has a S$10,000 note that's equivalent to $7,800 in US Dollars. The Euro, the Swiss Franc, the Brunei Dollar, and the Singapore Dollar all have denominations in circulation which convert to over $100 USD. And while different countries can have different rules, it seems that these countries do not think crime or tax evasion is enough of a problem to justify recalling their large denomination notes. Adding a $500 denomination will bring us more in line with world leading currencies."
+        },
+        {
+            "type": "image",
+            "url": "https://jpenn84.github.io/data/joshualeepenn.com/articles/numismatics/images/currency-abroad.png",
+            "caption": "",
+            "altText": ""
+        },
+        {
+            "type": "bs",
+            "text": "Conclusion",
+            "class": "h2"
+        },
+        {
+            "type": "paragraph",
+            "text": "The United States once had a need for $500 bills, even when $500 was a lot of money. However, disuse of cash and fears of illegitimate business dealings caused the recall of higher denominations. However, because some people still need or want to use cash, and because the US dollar is so popular overseas that the largest denomination is mostly used for this trade, it's time to reevaluate bringing back the $500 bill. "
         }
     ]
 }
