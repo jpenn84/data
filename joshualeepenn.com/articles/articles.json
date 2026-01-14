@@ -8,7 +8,11 @@
         "title": "I Vibe-Coded My Home Page",
         "text": "I let an AI write about my experience letting an AI create my web page.",
         "image": "https://jpenn84.github.io/data/joshualeepenn.com/articles/software_engineering/images/vibe-code.jpg",
-        "source": "https://jpenn84.github.io/data/joshualeepenn.com/articles/software_engineering/vibe-coded-home-page.json"
+        "source": "https://jpenn84.github.io/data/joshualeepenn.com/articles/software_engineering/vibe-coded-home-page.json",
+        "topics": [
+          "Software",
+          "AI"
+        ]
       }
     ]
   },
@@ -21,13 +25,19 @@
         "title": "Modern US Paper Money",
         "text": "A premature post-mortem of US paper money.",
         "image": "https://jpenn84.github.io/data/joshualeepenn.com/articles/numismatics/images/us-notes.png",
-        "source": "https://jpenn84.github.io/data/joshualeepenn.com/articles/numismatics/modern-us-paper-money.json"
+        "source": "https://jpenn84.github.io/data/joshualeepenn.com/articles/numismatics/modern-us-paper-money.json",
+        "topics": [
+          "Coins"
+        ]
       },
       {
         "title": "The case for reviving the $500 bill",
         "text": "My argument for bringing back a bygone bill.",
         "image": "https://jpenn84.github.io/data/joshualeepenn.com/articles/numismatics/images/hero-500-bill.png",
-        "source": "https://jpenn84.github.io/data/joshualeepenn.com/articles/numismatics/500-bill.json"
+        "source": "https://jpenn84.github.io/data/joshualeepenn.com/articles/numismatics/500-bill.json",
+        "topics": [
+          "Paper Money"
+        ]
       }
     ]
   },
@@ -38,7 +48,12 @@
     "articles": [
       {
         "title": "Arriving soon...",
-        "text": "An introduction to my thoughts on the T"
+        "text": "An introduction to my thoughts on the T",
+        "image": "https://jpenn84.github.io/data/joshualeepenn.com/articles/mass_transit/images/redline.jpg",
+        "topics": [
+          "Transit",
+          "Light Rail"
+        ]
       }
     ]
   },
@@ -49,7 +64,12 @@
     "articles": [
       {
         "title": "Coming soon...",
-        "text": "Half-Finished project of the year: remote control for PiHole"
+        "text": "Half-Finished project of the year: remote control for PiHole",
+        "topics": [
+          "Arduino",
+          "ESP32",
+          "Software"
+        ]
       }
     ]
   }
