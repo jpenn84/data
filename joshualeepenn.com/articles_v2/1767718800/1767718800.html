@@ -1,0 +1,95 @@
+<!-- I Vibe-Coded My Home Page -->
+
+<h3>Backstory (or, Why I didn't already have a web page)</h3>
+
+<p>When I first secured the joshualeepenn.com domain, it was a purely functional decision.I needed to reserve a Java
+  package namespace, and I needed a web address for some AWS services. I had set up a minimal landing page, but I had
+  always wanted to evolve it into a professional showcase for my work, hobbies, and personal perspectives. Yet, as the
+  old adage goes, the cobbler’s children often go barefoot; my professional focus left my own digital presence
+  neglected. According to web archives, the site has been nothing more than a static hero image since at least November
+  2020.</p>
+
+<div class="text-center">
+  <img src="old-site.png"
+    alt="The first 5 years of my website">
+  <p>The first 5 years of my website.</p>
+</div>
+
+<figure class="text-center">
+  <blockquote class="blockquote">
+    <p>I developed an urgent drive to build something that would bring this specific aesthetic vision to life.</p>
+  </blockquote>
+</figure>
+
+<p>The catalyst for change arrived unexpectedly on January 6, 2025. Recovering from spinal surgery and newly free of a
+  six-week, pain-medication-induced brain fog, I sought distraction by immersing myself in music videos from the
+  mid-2010s. This sudden dose of colorful optimism, or perhaps the post-medication clarity, (or perhaps both) led to an
+  intense fixation on color palettes, visual morphisms, and other aspects of design that encompass more of our lives
+  than we realize. I developed an urgent drive to build something that would bring this specific aesthetic vision to
+  life.</p>
+
+<p>However, the initial development proved challenging. I pursued an overly ambitious direction: creating my own custom
+  CSS library—a sort of private-label Bootstrap. Though I began learning SASS for this purpose, I quickly realized my
+  technical mind struggled to translate abstract ideas into a consistent, visually appealing, and externally engaging
+  design. I could nearly see the finished product, but the goalposts seemed to shift with every step forward.</p>
+
+<p>Eventually, the project was placed on the back burner. Returning to my job, recovering from a bout of COVID, and
+  prioritizing family and health necessitated the pause. But the back burner is often where ideas are allowed to simmer.
+  I finally liberated myself from the notion that I needed a custom, gradient-glassmorphic framework, enabling me to
+  focus on the site’s content.</p>
+
+<h3>Vibe coding to the rescue!</h3>
+
+<p>The thought of wanting a personal web page crept back into my head on January 1, 2026. While I don't adhere to New
+  Year’s resolutions, a stretch of boredom and free time rekindled the project. This time, I had better tools: JetBrains
+  IDEs had expanded their free features, I’d gained experience with AI coding agents, and most importantly, I’d accepted
+  that I didn't need to build every element from scratch. I decided to delegate the initial construction to AI.</p>
+
+<p>My initial request for a personal webpage covered four specific interests: Software Engineering, Numismatics (coin
+  collecting), Mass Transit, and Electronics. The resulting design was mostly successful, though it required some notes
+  for later revision. For instance, the requested schematic diagram background generated a simple grid pattern instead.
+  However, the AI's design for the four <q>Interests</q> cards was clean and distinct, effectively using simple
+  text and Font Awesome icons in standard Bootstrap colors. When I requested four sections with mock stories, I was
+  impressed that the AI provided contextual text instead of generic <q>Lorem Ipsum.</q> The main difficulty arose
+  when I requested a Netflix-style layout with side-scrolling articles; the AI failed to deliver this visual
+  structure, a miss I attributed to my own lack of clarity in the prompt.</p>
+
+<p>The next major task—converting the project into a reusable React application—proved tedious. The LLM took an
+  agonizing amount of time, prompting for permissions repeatedly. It worked so slowly that I managed to make and consume
+  a ten-minute microwave dinner (thanks to <q>Chef Mike</q>) while waiting for it to complete the task—ten minutes
+  being an eternity in computing time.</p>
+
+<p>A pivotal moment came during an attempt to refine the article sections: the AI failed the refactoring, destroying the
+  layout. I could only restore it to an approximation of its former state. This served as a strong lesson, prompting me
+  to immediately create a Git repository to manage changes via dedicated branches.</p>
+
+<h3>Lessons in Prompt Engineering</h3>
+
+<p>My experience highlighted essential rules for working with AI coding agents: first, use sequential iteration, as
+  attempting to implement too many changes simultaneously only confused the AI, leading to unexpected results; second,
+  always verify changes, as sometimes a requested change would result in no visible difference on the page. I struggled
+  initially with the power of precise language, trying to ask how to use variables for my interest section titles to
+  enable string reuse, with common search terms yielding information on local .env files. The breakthrough came when I
+  asked: <q>I want to use variables for the interest title values so I can reuse those strings in other places.</q>
+  With the proper context, the AI immediately provided the correct solution.</p>
+
+<h3>A helping (human) hand</h3>
+
+<p>The final stages involved minor tweaks, such as increasing the hero image size and adding padding to prevent scroll
+  arrows from overlapping the article cards. While the AI successfully handled the image resize, it missed the mark on
+  the padding adjustment, forcing me to handle that detail manually.</p>
+
+<p>The journey from a static placeholder to a dynamic, if partially AI-built, React application demonstrated the
+  complexity of co-piloting with modern LLMs. The front-end creation for the article pages, which currently serve JSON
+  data from a GitHub repository using GitHub Pages, was a seamless process thanks to mock data. While the backend
+  solution is temporary—I plan to create a custom app for writing and uploading articles in the future—the process
+  proved that while AI can handle significant chunks of the build, the critical tasks—the final polish, the precise
+  refactoring, and the effective articulation of complex technical requirements—remain firmly within the domain of the
+  human developer.</p>
+
+<h3>The next steps</h3>
+
+<p>With the website UI complete, two final steps remain: establishing a long-term content delivery method and actually
+  generating the content itself. Given that AI was used for the web page creation, it is fitting to use AI again to
+  transform project notes into a comprehensive article. This will serve as the site's first piece of content, providing
+  a satisfying bookend to the development process.</p>
